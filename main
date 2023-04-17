@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Button Click Website</title>
+  </head>
+  <body>
+    <button id="my-button">Click me!</button>
+    <p id="my-message"></p>
+    <script src="script.js"></script>
+  </body>
+</html>
